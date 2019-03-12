@@ -1,3 +1,13 @@
+## BIMM143 Classwork
+
+This is a store of my class work for [BIMM143 W19 at UCSD]
+
+## Contents
+- Lecture 14
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/iyersamhita/bimm-143/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
